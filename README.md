@@ -25,7 +25,7 @@ Simple CRUD Djangorestframework
 ### Notes
 * required python 2.7
 * required mysql server
-* import db_sqldump.sql to your mysql database
+* import database schema from db_sqldump.sql to your mysql database
 * change database config in settings.py
 * tested on windows 7
 
