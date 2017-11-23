@@ -5,8 +5,8 @@ Simple CRUD Djangorestframework
 ### Test Case Scenarios
 * Tes to verify registration.
 * Tested authenticated user authorization with JWT.
+* Get articles with API.
 * Create an article with API.
-* Update an article with API.
 * Update an article with API.
 * Delete an article with API.
 
