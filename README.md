@@ -23,7 +23,7 @@ Simple CRUD Djangorestframework
     python manage.py runserver
 
 ### Notes
-
+* required python 2.7
 * required mysql server
 * import db_sqldump.sql to your mysql database
 * change database config in settings.py
