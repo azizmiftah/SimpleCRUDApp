@@ -14,12 +14,6 @@ Simple CRUD Djangorestframework
 
 * **/docs**
 
-
-#### Todos
-
-* **/api/todos/** (Todo create and list endpoint)
-* **/api/todos/{todo-id}/** (Todo retrieve, update and destroy endpoint)
-
 ### Install 
 
     pip install -r requirements.txt
