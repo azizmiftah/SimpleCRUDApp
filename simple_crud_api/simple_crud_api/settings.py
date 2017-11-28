@@ -87,10 +87,10 @@ WSGI_APPLICATION = 'simple_crud_api.wsgi.application'
 
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 
-EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_HOST = '<youremailhost>'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'info@node8.net'
-EMAIL_HOST_PASSWORD = 'trqmlckyrvvaqzpr'
+EMAIL_HOST_USER = '<yourhostuser>'
+EMAIL_HOST_PASSWORD = '<yourhostpassword>'
 EMAIL_USE_TLS = True
 
 # Database
