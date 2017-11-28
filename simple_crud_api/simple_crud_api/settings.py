@@ -100,13 +100,13 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'crudapp',
-        'USER': 'edwinOnly',
-        'PASSWORD': 'domybest.300811',
+        'USER': 'root',
+        'PASSWORD': '<yourpassword>',
         'HOST': 'localhost',
         'PORT': '',
     },
 }
-#
+
 
 
 # Password validation
