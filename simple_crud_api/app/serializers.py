@@ -19,5 +19,3 @@ class ParamObtainToken(serializers.ModelSerializer):
 		model = User
 		exclude = ('name', 'activate_code', 'id')
 
-class CheckEmailSerial(serializers.Serializer):
-	email = serializers.CharField(required=True)
